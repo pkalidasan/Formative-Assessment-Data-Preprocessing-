@@ -4,9 +4,9 @@ Formative Assessment ( Data Preprocessing )
 The main objective of this project is to design and implement a robust data preprocessing system to address common challenges such as missing values, outliers, inconsistent formatting, and noise. Effective data preprocessing aims to enhance the quality, reliability, and usefulness of the data for machine learning.
 
 Dataset
-You can access the dataset here.
+To view the dataset click here.
 
-Key Components to be Fulfilled
+Key Components
 
 Data Exploration 
 
@@ -35,11 +35,11 @@ Feature Scaling
 
 Perform feature scaling using StandardScaler and MinMaxScaler after encoding the categorical variables.
 
-Steps to Implement the Project
+Steps to the Project
 
 Data Exploration
 
-Load the dataset.
+Load the given dataset
 List unique values and their lengths for each feature.
 Perform statistical analysis.
 Rename columns as needed for clarity.
