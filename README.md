@@ -34,6 +34,7 @@ Convert categorical variables into numerical representations using techniques li
 Feature Scaling 
 
 Perform feature scaling using StandardScaler and MinMaxScaler after encoding the categorical variables.
+
 Steps to Implement the Project
 
 Data Exploration
